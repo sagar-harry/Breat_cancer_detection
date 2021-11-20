@@ -31,12 +31,12 @@ Steps involved in the current project:
          - Accuracy metrics
  5. Final Results
   FINAL TRAINING AND TEST ACCURACY OF EACH MODEL 
+<pre>
+                          Training accuracy    Testing accuracy <br />
 
-                          Training accuracy    Testing accuracy 
-
-KNN                             0.97                 0.91
-Naive Bayes                     0.90                 0.87
-Logistic Regression             0.97                 0.95
-SVM                             0.97                 0.94
+KNN                             0.97                 0.91 <br />
+Naive Bayes                     0.90                 0.87 <br />
+Logistic Regression             0.97                 0.95 <br />
+SVM                             0.97                 0.94 
    
         
